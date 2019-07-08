@@ -1,2 +1,2 @@
 # JaySAS 👨‍💻🔥
-Javascript Algorithmic Scripting
+**J**avascript **A**lgorithmic **S**cripting   
