@@ -16,3 +16,4 @@ This repository contains different approaches for common problems in the program
 * [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
 * [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
 * Reverse of string
+* Find the longest number(s) in array(s)
