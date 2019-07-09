@@ -1,12 +1,12 @@
 // Return the largest number(s) in array(s)
-
-// First Approach
 let _array = [
   [583, 999, 113, 55],
   [600, 187, 798, 444],
   [1023, 77, 832, 285],
   [83, 99, 113, 555]
 ];
+
+// First Approach
 const findLargest1 = arr => {
   let result = [];
   for (let i = 0; i < arr.length; i++) {
