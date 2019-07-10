@@ -12,7 +12,7 @@ This repository contains different approaches for common problems in the program
    
 
 #### Problems covered so far is :   
-* Find longest word in string
+* - [x] Find longest word in string
 * [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
 * [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
 * Reverse of string
