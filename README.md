@@ -13,7 +13,9 @@ This repository contains different approaches for common problems in the program
 
 #### Problems covered so far is :   
 * - [x] Find longest word in string
-* [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
-* [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
-* Reverse of string
-* Find the longest number(s) in array(s)
+* - [x] [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
+* - [x] [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
+* - [x] Reverse of string
+* - [x] Find the longest number(s) in array(s)
+* - [] Repeat a string 
+* - [] Truncate string 
