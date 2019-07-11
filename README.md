@@ -17,5 +17,5 @@ This repository contains different approaches for common problems in the program
 * - [x] [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
 * - [x] Reverse of string
 * - [x] Find the longest number(s) in array(s)
-* - [ ] Repeat a string 
+* - [x] Repeat a string 
 * - [ ] Truncate string 
