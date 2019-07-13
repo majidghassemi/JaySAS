@@ -11,7 +11,7 @@ This repository contains different approaches for common problems in the program
 ***  
    
 
-#### Problems covered so far is :   
+#### Problems :   
 * - [x] Find longest word in string
 * - [x] [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
 * - [x] [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
@@ -19,3 +19,6 @@ This repository contains different approaches for common problems in the program
 * - [x] Find the longest number(s) in array(s)
 * - [x] Repeat a string 
 * - [ ] Truncate string 
+* - [ ] Chunky Monkey   
+* - [ ] Slasher Flick   
+* - [ ] Mutations   
