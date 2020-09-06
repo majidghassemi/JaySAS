@@ -20,5 +20,4 @@ This repository contains different approaches for common problems in the program
 * - [x] Repeat a string 
 * - [x] Truncate string 
 * - [ ] Chunky Monkey   
-* - [ ] Slasher Flick   
-* - [ ] Mutations   
+* - [x] Slasher Flick     
