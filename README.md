@@ -18,7 +18,7 @@ This repository contains different approaches for common problems in the program
 * - [x] Reverse of string
 * - [x] Find the longest number(s) in array(s)
 * - [x] Repeat a string 
-* - [ ] Truncate string 
+* - [x] Truncate string 
 * - [ ] Chunky Monkey   
 * - [ ] Slasher Flick   
 * - [ ] Mutations   
