@@ -2,8 +2,8 @@
 ***J***avascript ***A***lgorithmic ***S***cripting  
    
    
-## Get 100/100 from your algorithmic interview questions 🤟😎
-This repository contains different approaches for common problems in the programming world such as *caeser's cipher*, *mutations* and etc... on three levels of basic, intermediate and advanced (level depends on problems); for example caesar's cipher included in basic problems .  
+## Get 100/100 from your interview questions 🤟😎
+This repository contains different approaches for problems in the programming world ... on three levels of basic, intermediate and advanced (level depends on problems) . 
 
 
 >**The proposed approaches are also expressed in a few optimal states**.   
@@ -19,5 +19,6 @@ This repository contains different approaches for common problems in the program
 * - [x] Find the longest number(s) in array(s)
 * - [x] Repeat a string 
 * - [x] Truncate string 
-* - [ ] Chunky Monkey   
+* - [x] Chunky Monkey   
 * - [x] Slasher Flick     
+* - [x] Count the occurrence of a given character in a string
