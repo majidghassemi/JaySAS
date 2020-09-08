@@ -23,6 +23,6 @@ This repository contains different approaches for problems in the programming wo
 * - [x] Slasher Flick     
 * - [x] Count the occurrence of a given character in a string
 * - [x] Bubble Sort
-* - [ ] Merge Sort
+* - [x] Merge Sort
 * - [ ] Insertion Sort
 * - [ ] Quick Sort
