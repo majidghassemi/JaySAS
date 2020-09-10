@@ -22,7 +22,8 @@ This repository contains different approaches for problems in the programming wo
 * - [x] Chunky Monkey   
 * - [x] Slasher Flick     
 * - [x] Count the occurrence of a given character in a string
+>** Sorting Methods
 * - [x] Bubble Sort
 * - [x] Merge Sort
 * - [x] Insertion Sort
-* - [ ] Quick Sort
+* - [x] Quick Sort
