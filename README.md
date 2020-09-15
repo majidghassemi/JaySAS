@@ -14,6 +14,7 @@ This repository contains different approaches for problems in the programming wo
 ## Problems discovered yet :   
 
 >  Common Problems
+* - [x] Swap 2 numbers without using third variable
 * - [x] Find longest word in string
 * - [x] [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
 * - [x] [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
