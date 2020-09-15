@@ -11,7 +11,9 @@ This repository contains different approaches for problems in the programming wo
 ***  
    
 
-#### Problems discovered yet :   
+## Problems discovered yet :   
+
+>  Common Problems
 * - [x] Find longest word in string
 * - [x] [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
 * - [x] [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
