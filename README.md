@@ -14,7 +14,7 @@ This repository contains different approaches for problems in the programming wo
 * - [x] All about arrays in js
 
 >  Linked List 
-* - [ ] Implement Linked List in js
+* - [x] Implement Linked List in js
 
 >  Stacks
 * - [ ] Stacks Implementation
