@@ -9,11 +9,27 @@ This repository contains different approaches for problems in the programming wo
 >**The proposed approaches are also expressed in a few optimal states**.   
    
 ***  
-   
+## Data structures :
+>  Arrays 
+* - [x] All about arrays in js
 
-## Problems discovered yet :   
+>  Linked List 
+* - [ ] Implement Linked List in js
 
->  Common Problems
+>  Stacks
+* - [ ] Stacks Implementation
+
+>  Queues
+* - [ ] Queues Implementation
+
+>  Hash Tables
+* - [ ] Hash Table: Zero to Hero
+
+*** 
+
+## Algorithms discovered yet :   
+
+>  Common and Simple Algortihms
 * - [x] Swap 2 numbers without using third variable
 * - [x] Find longest word in string
 * - [x] [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
@@ -25,12 +41,12 @@ This repository contains different approaches for problems in the programming wo
 * - [x] Chunky Monkey   
 * - [x] Slasher Flick     
 * - [x] Count the occurrence of a given character in a string
->  Sort Methods
+>  Sort Algorithms
 * - [x] Bubble Sort
 * - [x] Merge Sort
 * - [x] Insertion Sort
 * - [x] Quick Sort
 
->  Search Methods
+>  Search Algorithms
 * - [x] Linear Search
 * - [x] Binary Search
