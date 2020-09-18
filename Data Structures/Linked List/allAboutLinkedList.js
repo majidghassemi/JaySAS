@@ -110,4 +110,16 @@ class LinkedList {
         this.head = null;
         this.size = 0;
     }
+
+    // Reverse List
+    reverseList() {
+        let previous = this.head;
+        let current = this.head.next;
+        while ( current ) {
+            let next = current.next;
+            current.next = previous;
+            previous = current;
+            current = next;
+        }
+    }
 }
