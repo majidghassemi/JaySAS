@@ -9,7 +9,7 @@ This repository contains different approaches for problems in the programming wo
 >**The proposed approaches are also expressed in a few optimal states**.   
    
 ***  
-## Data structures :
+## Data structures :floppy_disk:
 >  Arrays 
 * - [x] All about arrays in js
 
@@ -27,7 +27,7 @@ This repository contains different approaches for problems in the programming wo
 
 *** 
 
-## Algorithms discovered yet :   
+## Algorithms :nerd_face:   
 
 >  Common and Simple Algortihms
 * - [x] Swap 2 numbers without using third variable
