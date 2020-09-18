@@ -1,4 +1,4 @@
-// Linked List
+// Linked List -- We have 3 types of Linked List => singly, doubly, circular
 // Most common DS after array
 // Grown and shrink automatically
 // Each node has value and address of the next node in a list
