@@ -16,7 +16,8 @@ class HashTable {
     return hash;
   }
 
-  set(key, value) { // Setter
+  set(key, value) {
+    // Setter
     let address = this._hash(key);
     if (!this.data[address]) {
       this.data[address] = [];
@@ -25,7 +26,8 @@ class HashTable {
     return this.data;
   }
 
-  get(key) { // Getter
+  get(key) {
+    // Getter
     let address = this._hash(key);
     const currentBucket = this.data[address];
     if (currentBucket) {
@@ -39,7 +41,8 @@ class HashTable {
     return undefined;
   }
 
-  keys() { // Get all of keys in array
+  keys() {
+    // Get all of keys in array
     const keysArray = [];
     for (let i = 0; i < this.data.length; i++) {
       if (this.data[i]) {
