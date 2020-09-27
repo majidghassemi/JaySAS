@@ -23,7 +23,7 @@ This repository contains different approaches for problems in the programming wo
 * - [ ] Queues Implementation
 
 >  Hash Tables
-* - [ ] Hash Table: Zero to Hero
+* - [x] Hash Table: Zero to Hero
 
 *** 
 
