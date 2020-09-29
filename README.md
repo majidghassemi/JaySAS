@@ -10,7 +10,7 @@ This repository contains different approaches for problems in the programming wo
    
 ***  
 ## Data structures :floppy_disk:
->  Arrays 
+>  [Arrays](Data Structures/Arrays/allAboutArrays.js)
 * - [x] All about arrays in js
 
 >  Linked List 
