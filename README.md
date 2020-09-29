@@ -5,21 +5,20 @@
 ## Get 100/100 from your interview questions 🤟😎
 This repository contains different approaches for problems in the programming world ... on three levels of basic, intermediate and advanced (level depends on problems) . 
 
-
->**The proposed approaches are also expressed in a few optimal states**.   
+  
    
 ***  
 ## Data structures :floppy_disk:
->  [Arrays](Data-Structures/Arrays/allAboutArrays.js)
+>  [Arrays](Data-Structures/Arrays)
 * - [x] All about arrays in js
 
->  [Hash Tables](Data-Structures/Hash-Tables/allAboutHash.js)
+>  [Hash Tables](Data-Structures/Hash-Tables)
 * - [x] Hash Table: Zero to Hero
 
->  [Linked List](Data-Structures/Linked-List/allAboutLinkedList.js)
+>  [Linked List](Data-Structures/Linked-List)
 * - [x] Implement Linked List in js
 
->  [Stacks and Queues](Data-Structures/Stacks-and-Queues/allAboutStacks-and-Queues.js)
+>  [Stacks and Queues](Data-Structures/Stacks-and-Queues)
 * - [ ] Stacks and Queues Implementation
 
 
