@@ -10,8 +10,3 @@
 
 * Insert to beginning is O(1), to middle is O(n) , to end is O(1)
 * Delete from beggining is O(1), from middle is O(n), from end is O(n)
-
-
-|                     Insert                     |                     Delete                     |                     Lookup                     |
-|---|---|---|---|
-|To beginning and end is O(1), to middle is O(n) | From  beginning is O(1), From middle and end is O(n) | Lookup for both of lookup for value and index is O(n) |
