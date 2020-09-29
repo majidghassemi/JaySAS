@@ -27,23 +27,22 @@ This repository contains different approaches for problems in the programming wo
 ## Algorithms :nerd_face:   
 
 >  Common and Simple Algortihms
-* - [x] Swap 2 numbers without using third variable
-* - [x] Find longest word in string
-* - [x] [Factorial of number](https://en.wikipedia.org/wiki/Factorial)
-* - [x] [Palindrome string](https://en.wikipedia.org/wiki/Palindrome)
-* - [x] Reverse of string
-* - [x] Find the longest number(s) in array(s)
-* - [x] Repeat a string 
-* - [x] Truncate string 
-* - [x] Chunky Monkey   
-* - [x] Slasher Flick     
-* - [x] Count the occurrence of a given character in a string
+* - [x] [Swap 2 numbers without using third variable](Algorithms/Basic/swap.js)
+* - [x] [Find longest word in string](Algorithms/Basic/find-the-longest-word-in-string.js)
+* - [x] [Factorial of number](Algorithms/Basic/factorial-of-number.js)
+* - [x] [Palindrome string](Algorithms/Basic/palindrome.js)
+* - [x] [Find the longest number(s) in array(s)](Algorithms/Basic/return-largest-number-in-array.js)
+* - [x] [Repeat a string](Algorithms/Basic/repeat-string.js)
+* - [x] [Truncate string](Algorithms/Basic/truncate-string.js)
+* - [x] [Chunky Monkey](Algorithms/Intermed/chunky-monkey.js)
+* - [x] [Slasher Flick](Algorithms/Basic/slasher-flick.js)  
+* - [x] [Count the occurrence of a given character in a string](Algorithms/Basic/character-in-string.js)
 >  Sort Algorithms
-* - [x] Bubble Sort
-* - [x] Merge Sort
-* - [x] Insertion Sort
-* - [x] Quick Sort
+* - [x] [Bubble Sort](Algorithms/Intermed/sort-algorithms/bubble-sort.js)
+* - [x] [Insertion Sort](Algorithms/Intermed/sort-algorithms/insertion-sort.js)
+* - [x] [Merge Sort](Algorithms/Intermed/sort-algorithms/merge-sort.js)
+* - [x] [Quick Sort](Algorithms/Intermed/sort-algorithms/quick-sort.js)
 
 >  Search Algorithms
-* - [x] Linear Search
-* - [x] Binary Search
+* - [x] [Linear Search](Algorithms/Intermed/search-algorithms/linear-search.js)
+* - [ ] [Binary Search](Algorithms/Intermed/search-algorithms/binary-search.js)
