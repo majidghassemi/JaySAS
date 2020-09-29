@@ -10,20 +10,18 @@ This repository contains different approaches for problems in the programming wo
    
 ***  
 ## Data structures :floppy_disk:
->  [Arrays](Data Structures/Arrays/allAboutArrays.js)
+>  [Arrays](Data-Structures/Arrays/allAboutArrays.js)
 * - [x] All about arrays in js
 
->  Linked List 
+>  [Hash Tables](Data-Structures/Hash-Tables/allAboutHash.js)
+* - [x] Hash Table: Zero to Hero
+
+>  [Linked List](Data-Structures/Linked-List/allAboutLinkedList.js)
 * - [x] Implement Linked List in js
 
->  Stacks
-* - [ ] Stacks Implementation
+>  [Stacks and Queues](Data-Structures/Stacks-and-Queues/allAboutStacks-and-Queues.js)
+* - [ ] Stacks and Queues Implementation
 
->  Queues
-* - [ ] Queues Implementation
-
->  Hash Tables
-* - [x] Hash Table: Zero to Hero
 
 *** 
 
