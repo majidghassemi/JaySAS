@@ -1,7 +1,4 @@
-// Insertion, Deletion, Lookup and search's Big O is O(1)
-// When collision (We have 2 or more keys points to one value) occured, It slow down to O(n)
 
-// Implement Hash Table
 
 class HashTable {
   constructor(size) {
