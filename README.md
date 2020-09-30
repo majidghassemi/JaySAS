@@ -24,7 +24,7 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
 * - [x] Implement Linked List in js
 
 >  [Stacks and Queues](Data-Structures/Stacks-and-Queues)
-* - [ ] Stacks and Queues Implementation
+* - [x] Stacks and Queues Implementation
 
 
 *** 
