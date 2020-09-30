@@ -2,10 +2,15 @@
 ***J***avascript ***A***lgorithmic ***S***cripting  
    
    
-## Get 100/100 from your interview questions 🤟😎
-This repository contains different approaches for problems in the programming world ... on three levels of basic, intermediate and advanced (level depends on problems) . 
+## Data structures and Algorithms Implementation in ``JS ``
+   
+In this repository, we cover data structures and algorithms with JS
 
-  
+> *" Not all roots are buried down in the ground some are at the top of the tree "*
+
+Took all of you need about `DS` and `Algorithm` here and get maximum number in your interview . . . :)
+
+   
    
 ***  
 ## Data structures :floppy_disk:
@@ -46,3 +51,10 @@ This repository contains different approaches for problems in the programming wo
 >  Search Algorithms
 * - [x] [Linear Search](Algorithms/Intermed/search-algorithms/linear-search.js)
 * - [ ] [Binary Search](Algorithms/Intermed/search-algorithms/binary-search.js)
+
+
+## Contributions
+* #### Add new algorithm
+* #### Suggest changes to existing ds or algorithm
+* #### Add different approach to existing algorithm
+* #### Write an article
