@@ -8,7 +8,7 @@ In this repository, we cover data structures and algorithms with JS
 
 > *" Not all roots are buried down in the ground some are at the top of the tree "*
 
-Took all of you need about `DS` and `Algorithm` here and get maximum number in your interview . . . :)
+Took all of you need about `DS` and `Algorithm` here to get maximum number in your interview . . . :)
 
    
    
@@ -58,3 +58,4 @@ Took all of you need about `DS` and `Algorithm` here and get maximum number in y
 * #### Suggest changes to existing ds or algorithm
 * #### Add different approach to existing algorithm
 * #### Write an article
+* #### Submit an issue
