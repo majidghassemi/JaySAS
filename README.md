@@ -26,6 +26,8 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
 >  [Stacks and Queues](Data-Structures/Stacks-and-Queues)
 * - [x] Stacks and Queues Implementation
 
+>  [Trees](Data-Structures/Trees)
+* - [x] All about Trees
 
 *** 
 
