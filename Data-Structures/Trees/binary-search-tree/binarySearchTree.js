@@ -1,6 +1,7 @@
 // The left subtree's values is less than root node and right of it is greater
 // For Balanced Tree : Insert, Lookup and Remove's Big O is O(log N)
 // For Unbalanced Tree : Insert, Lookup and Remove's Big O is O(N)
+// Make BST balanced by using AVL Tree and RED-BLACK Tree
 
 class Node {
   constructor(value) {
