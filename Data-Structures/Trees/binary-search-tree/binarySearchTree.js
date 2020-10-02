@@ -40,7 +40,6 @@ class BinarySearchTree {
   }
 
   lookup(value) {
-    const newNode = new Node(value);
     if (!this.root) {
       return null;
     }
