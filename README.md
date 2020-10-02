@@ -29,6 +29,9 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
 >  [Trees](Data-Structures/Trees)
 * - [x] All about Trees
 
+>  [Graphs](Data-Structures/Graphs)
+* - [x] Graphs introduction
+
 *** 
 
 ## Algorithms :nerd_face:   
