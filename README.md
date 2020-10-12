@@ -40,7 +40,7 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
 * - [x] [Swap 2 numbers without using third variable](Algorithms/Basic/swap.js)
 * - [x] [Find longest word in string](Algorithms/Basic/find-the-longest-word-in-string.js)
 * - [x] [Factorial of number](Algorithms/Basic/factorial-of-number.js)
-* - [x] [Factorial in Recursive mode](Algorithms/Basic/fibonacci.js)
+* - [x] [Fibonacci in Recursive mode](Algorithms/Basic/fibonacci.js)
 * - [x] [Palindrome string](Algorithms/Basic/palindrome.js)
 * - [x] [Find the longest number(s) in array(s)](Algorithms/Basic/return-largest-number-in-array.js)
 * - [x] [Repeat a string](Algorithms/Basic/repeat-string.js)
