@@ -13,7 +13,7 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
   
    
 ******
-# Topics covered so far
+**Topics covered so far**
 *****   
 
 ## Data structures :floppy_disk:
