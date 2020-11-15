@@ -10,9 +10,12 @@ In this repository, we cover data structures and algorithms with JS
 
 Took all of you need about `DS` and `Algorithm` here to get maximum number in your interview . . . :)
 
+  
    
-   
-***  
+******
+**Topics covered so far**
+*****   
+
 ## Data structures :floppy_disk:
 >  [Arrays](Data-Structures/Arrays)
 * - [x] All about arrays in js
@@ -63,5 +66,4 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
 * #### Add new algorithm
 * #### Suggest changes to existing ds or algorithm
 * #### Add different approach to existing algorithm
-* #### Write an article
 * #### Submit an issue
