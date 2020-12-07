@@ -13,7 +13,7 @@ const repeatString1 = (str, num) => {
 const repeatString3 = (str, num) => num > 0 ? str.repeat(num) : str;
 
 
-// Second Approach - Advnced => Recursive
+// Third Approach - Advanced => Recursive
 const repeatString2 = (str, num) => {
     if (num < 0) return '';
     if (num === 1) return str;
