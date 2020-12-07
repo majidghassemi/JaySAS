@@ -21,4 +21,3 @@ function selectionSort(arr) {
   return arr;
 }
 
-console.log(selectionSort([100, 93, 1, 0, 5, 9, 34, 29, 25, 54, 49]));
