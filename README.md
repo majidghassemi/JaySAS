@@ -4,7 +4,7 @@
    
 ## Data structures and Algorithms Implementation in ``JS ``
    
-In this repository, we cover data structures and algorithms with JS
+In this repository, i am covering data structures and algorithms with JS
 
 > *" Not all roots are buried down in the ground some are at the top of the tree "*
 
@@ -56,14 +56,14 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
 * - [x] [Insertion Sort](Algorithms/Intermed/sort-algorithms/insertion-sort.js)
 * - [x] [Merge Sort](Algorithms/Intermed/sort-algorithms/merge-sort.js)
 * - [x] [Quick Sort](Algorithms/Intermed/sort-algorithms/quick-sort.js)
+* - [x] [Selection Sort](Algorithms/Intermed/sort-algorithms/selection-sort.js)
 
 >  Search Algorithms
 * - [x] [Linear Search](Algorithms/Intermed/search-algorithms/linear-search.js)
-* - [ ] [Binary Search](Algorithms/Intermed/search-algorithms/binary-search.js)
+* - [x] [Binary Search](Algorithms/Intermed/search-algorithms/binary-search.js)
 
 
 ## Contributions
 * #### Add new algorithm
-* #### Suggest changes to existing ds or algorithm
 * #### Add different approach to existing algorithm
 * #### Submit an issue
