@@ -4,11 +4,9 @@
    
 ## Data structures and Algorithms Implementation in ``JS ``
    
-In this repository, i am covering data structures and algorithms with JS
+In this repository, I am covering data structures and algorithms with JS
 
-> *" Not all roots are buried down in the ground some are at the top of the tree "*
-
-Took all of you need about `DS` and `Algorithm` here to get maximum number in your interview . . . :)
+Took all you need about `DS` and `Algorithm` here to get maximum number in your interview . . . :)
 
   
    
@@ -65,5 +63,5 @@ Took all of you need about `DS` and `Algorithm` here to get maximum number in yo
 
 ## Contributions
 * #### Add new algorithm
-* #### Add different approach to existing algorithm
+* #### Add different approach to existing algorithms
 * #### Submit an issue
